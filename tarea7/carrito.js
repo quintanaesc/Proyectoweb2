@@ -6,7 +6,7 @@ function agregar(lista){
 let nuevo=true;
 const carrito=[]
 
-while(confirm("Deseas comprar de nuevo")){
+while(confirm("Deseas comprar")){
     agregar(carrito)
 }
 

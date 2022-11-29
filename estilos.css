@@ -1,0 +1,33 @@
+body{
+    background-color: green;
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+    color: cyan;
+}
+table{
+    background-color: antiquewhite;
+    width: 90%;
+    border: black 5px solid;
+    border-collapse: collapse;
+    margin-left: 5%;
+}
+.borde_celda{
+    border: black 2px solid;
+    border-collapse: collapse;
+}
+.celda_nombre{
+    text-align: center;
+    font-size: x-large;
+}
+img{
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+}
+.celda_img{
+    width: 33%;
+    background-color: white;
+}
